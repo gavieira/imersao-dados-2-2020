@@ -8,3 +8,12 @@
 - [alura-cursos/introducao-a-data-science](https://github.com/alura-cursos/introducao-a-data-science)
 - [alura-cursos/reducao-dimensionalidade](https://github.com/alura-cursos/reducao-dimensionalidade)
 - [alura-cursos/machine-learning-algoritmos-nao-supervisionados](https://github.com/alura-cursos/machine-learning-algoritmos-nao-supervisionados)
+- Excelente: [mGalarnyk/Python_Tutorials](https://github.com/mGalarnyk/Python_Tutorials)
+
+# Data visualization (Seaborn)
+
+- [blueliberty/Seaborn](https://github.com/blueliberty/Seaborn)
+- [clair513/Seaborn-Tutorial](https://github.com/clair513/Seaborn-Tutorial)
+- [mwaskom/seaborn-data](https://github.com/mwaskom/seaborn-data)
+- [DataForScience/DataViz](https://github.com/DataForScience/DataViz)
+- [Dataweekends/exploratory_data_analysis](https://github.com/Dataweekends/exploratory_data_analysis)
