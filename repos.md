@@ -22,3 +22,4 @@
 # Machine learning
 
 - [Choosing ML model](https://towardsdatascience.com/do-you-know-how-to-choose-the-right-machine-learning-algorithm-among-7-different-types-295d0b0c7f60)
+- [ML regression](https://towardsdatascience.com/machine-learning-with-python-regression-complete-tutorial-47268e546cea)
