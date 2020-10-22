@@ -1,4 +1,4 @@
-# Repositórios bacanas
+# Repositórios/links bacanas
 
 - [ViniciusBRodrigues/machine-learning-com-r-classificacao-de-focos-de-dengue](https://github.com/ViniciusBRodrigues/machine-learning-com-r-classificacao-de-focos-de-dengue)
 - [alura-cursos/data-science-e-saude-de-parte-1](https://github.com/alura-cursos/data-science-e-saude-de-parte-1)
@@ -17,3 +17,8 @@
 - [mwaskom/seaborn-data](https://github.com/mwaskom/seaborn-data)
 - [DataForScience/DataViz](https://github.com/DataForScience/DataViz)
 - [Dataweekends/exploratory_data_analysis](https://github.com/Dataweekends/exploratory_data_analysis)
+
+
+# Machine learning
+
+- [Choosing ML model](https://towardsdatascience.com/do-you-know-how-to-choose-the-right-machine-learning-algorithm-among-7-different-types-295d0b0c7f60)
